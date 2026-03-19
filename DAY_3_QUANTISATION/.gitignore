@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+llama.cpp/
+=*/
+*.safetensors
+*.gguf
+*.bin
+*.pt
+quantized(1)/
+benchmarks(1)/
