@@ -1,0 +1,42 @@
+{
+  "fp16": {
+    "size_mb": 953.22,
+    "format": "fp16",
+    "load_time_s": 1.556,
+    "first_token_latency_s": 0.5101,
+    "total_generation_time_s": 8.566,
+    "tokens_generated": 100,
+    "tokens_per_second": 11.67,
+    "peak_gpu_mb": 0.0,
+    "perplexity": 16.5175,
+    "sample_output": "A large language model is a type of machine learning algorithm that processes text data and generates human-like output. Large language models are used for a wide range of tasks, including natural language processing, text generation, translation, summarization, and more.\nA large language model is a type of machine learning algorithm that processes text data and generates human-like output. It can be used for a wide range of tasks, including natural language processing, text generation, translation, summarization, and more. \nA large"
+  },
+  "int8": {
+    "size_mb": 613.16,
+    "format": "int8",
+    "load_time_s": 2.942,
+    "first_token_latency_s": 2.2245,
+    "total_generation_time_s": 23.516,
+    "tokens_generated": 100,
+    "tokens_per_second": 4.25,
+    "peak_gpu_mb": 0.0,
+    "perplexity": 16.792,
+    "sample_output": "1. A large language model is a machine learning algorithm that can generate human-like text by understanding and processing natural language.\n2. These models are often used for tasks such as summarization, translation, question answering, and more. They have been trained on vast amounts of textual data to improve their ability to understand the nuances and context within spoken or written language. Large language models like BERT, GPT-3, and Transformers are some examples of this technology. They enable machines to interact with"
+  },
+  "int4": {
+    "size_mb": 447.06,
+    "format": "int4",
+    "load_time_s": 1.545,
+    "first_token_latency_s": 2.2182,
+    "total_generation_time_s": 140.708,
+    "tokens_generated": 100,
+    "tokens_per_second": 0.71,
+    "peak_gpu_mb": 0.0,
+    "perplexity": 58.6968,
+    "sample_output": "Large language models are powerful, complex systems of code that can generate text based on patterns learned from a vast corpus of data.\nLarge language models have the potential to be incredibly intelligent and useful tools for a wide range of applications. They are able to understand natural language, generate coherent text, and even produce creative writing, all without human intervention.\n\nWhat does it take to create an AI model? In two sentences, explain what it takes: Creating an AI (artificial intelligence) model involves several key steps"
+  },
+  "gguf": {
+    "error": "llama.cpp binary not found. Build it first:\n  cd llama.cpp && cmake -B build && cmake --build build --config Release",
+    "format": "gguf"
+  }
+}

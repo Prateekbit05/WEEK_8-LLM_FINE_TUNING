@@ -1,0 +1,17 @@
+{
+  "FP16": {
+    "size_mb": 953.22
+  },
+  "INT8": {
+    "size_mb": 613.16,
+    "compression": 1.55
+  },
+  "INT4": {
+    "size_mb": 447.06,
+    "compression": 2.13
+  },
+  "GGUF": {
+    "size_mb": 948.1,
+    "compression": 1.01
+  }
+}

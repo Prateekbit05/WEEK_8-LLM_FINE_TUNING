@@ -1,0 +1,41 @@
+{
+  "FP16": {
+    "size_mb": 953.22,
+    "gpu_memory_mb": 942.32,
+    "speed_tokens_sec": 27.22,
+    "perplexity": 63.6183,
+    "compression_ratio": 1.0,
+    "sample_responses": [
+      "What is machine learning? It's a subset of artificial intelligence, which involves building algorithms that can learn from data without being explicitly programmed. In simple terms, it's a method for computer systems to automatically improve their performance through experience with data.\nHow does this relate to AI in general?\nAI encompasses all the methods and techniques used to make computers perform tasks that typically require human intelligence, such as speech recognition, image recognition, decision-making, or self-driving cars. Machine learning falls under AI and allows machines to learn from examples and",
+      "Explain artificial intelligence in simple terms. Artificial Intelligence is a field of computer science that focuses on creating intelligent machines that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and problem-solving. It involves developing algorithms and models that allow computers to learn from data and make decisions based on that learning.\n\nAI can be applied to a wide range of fields, including healthcare, finance, transportation, education, and manufacturing. In each case, AI systems are designed to analyze large amounts of data and make predictions"
+    ]
+  },
+  "INT8": {
+    "size_mb": 613.16,
+    "gpu_memory_mb": 604.42,
+    "speed_tokens_sec": 6.09,
+    "perplexity": 64.3668,
+    "compression_ratio": 1.55,
+    "sample_responses": [
+      "What is machine learning? Machine Learning (ML) is a subset of Artificial Intelligence that involves the development and application of algorithms to enable computers to learn from data, improve performance over time, and make predictions or decisions. It is an area of research where machines can learn without being explicitly programmed.\n\nMachine learning techniques are used in many fields such as healthcare, finance, marketing, robotics, gaming, and more. Here are some key points about machine learning:\n\n1. Types: There are several types of machine learning algorithms, including supervised",
+      "Explain artificial intelligence in simple terms. Artificial Intelligence (AI) is a branch of computer science that focuses on developing intelligent machines that can perform tasks that typically require human intelligence, such as learning from data and making decisions. AI systems are designed to mimic the way humans think, learn, and make decisions based on patterns and information.\n\nThere are different types of AI, including:\n\n  * Machine Learning: This involves training algorithms with large amounts of data to improve their performance over time.\n  * Natural Language Processing: This enables computers to understand and"
+    ]
+  },
+  "INT4": {
+    "size_mb": 447.06,
+    "gpu_memory_mb": 446.93,
+    "speed_tokens_sec": 13.31,
+    "perplexity": 566.8381,
+    "compression_ratio": 2.13,
+    "sample_responses": [
+      "What is machine learning? Machine Learning is a subset of artificial intelligence, that involves the development and application of algorithms that enable machines to learn from data without being explicitly programmed. The goal of machine learning is to build models that can be used for prediction or decision-making tasks.\n\nThere are several different types of machine learning, including supervised learning, unsupervised learning, and reinforcement learning. Supervised learning is where we provide the model with labeled data, while unsupervised learning uses unlabeled data to find patterns in it. Rein",
+      "Explain artificial intelligence in simple terms. Artificial Intelligence (AI) is a field of technology that aims to create intelligent machines that can perform tasks that require human-like intelligence, such as learning, reasoning, and problem-solving. In simpler terms, AI is the ability of a machine to think like humans and make decisions based on data and algorithms without being explicitly programmed. It's a complex area with many subfields, including robotics, natural language processing, and computer vision, where we use computers to interact with the world around us. The ultimate goal"
+    ]
+  },
+  "GGUF": {
+    "size_mb": 948.1,
+    "compression_ratio": 1.01,
+    "path": "quantized/gguf/model.gguf",
+    "status": "success"
+  }
+}
