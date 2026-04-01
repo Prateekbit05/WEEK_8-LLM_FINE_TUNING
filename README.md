@@ -247,6 +247,16 @@ POST /model/switch   → Hot-swap between model formats
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### LLM Fine-Tuning Dashboard
+![LLM Fine Tuning Dashboard](Screenshots/LLM_FINE_TUNING_DASHBOARD.png)
+
+### Multimodel LLM Chat
+![Multimodel LLM Chat](Screenshots/MULTIMODEL_LLM_CHAT.png)
+
 ## 📊 Week 8 Completion Requirements
 
 | Skill Area | Requirement | Status |
